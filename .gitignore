@@ -1,8 +1,8 @@
 node_modules/
-to-be-converted/*
-!to-be-converted/.gitkeep
-converted/*
-!converted/.gitkeep
+# to-be-converted/*
+# !to-be-converted/.gitkeep
+# converted/*
+# !converted/.gitkeep
 .DS_Store
 .env
 *.log
